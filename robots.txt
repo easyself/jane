@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://www.xianmin.org/sitemap.xml
+Sitemap: https://easyself.github.io/jane/sitemap.xml
