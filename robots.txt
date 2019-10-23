@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://zh.easyli.net/sitemap.xml
+Sitemap: https://easyself.github.io/jane/sitemap.xml
